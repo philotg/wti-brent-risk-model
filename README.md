@@ -1,1 +1,1 @@
-# wti-wcs-risk-mode
+# wti-wcs-risk-model
